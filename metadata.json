@@ -1,0 +1,8 @@
+{
+  "name": "VONE — Quantum Routing Infrastructure",
+  "description": "A high-performance landing page for next-generation streaming infrastructure with integrated Gemini AI support and real-time telemetry.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
